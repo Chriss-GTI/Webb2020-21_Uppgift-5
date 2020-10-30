@@ -1,0 +1,36 @@
+body {
+  background-color: #b3ff66;
+}
+
+p {
+  font-family: verdana,arial,sans-serif;
+}
+
+h1,h2 {
+  font-family: georgia,"Times New Roman",serif;
+}
+
+.main {
+  display: flex;
+}
+
+.firstsub {
+  padding: 20px;
+}
+
+.secondsub {
+  padding: 20px;
+}
+
+a {
+  color: darkgreen;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+}
